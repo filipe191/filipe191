@@ -12,7 +12,7 @@
   <a href="https://aurasoftware.com.br">
     <img src="https://img.shields.io/badge/Aura_Software-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=E4A24F" alt="Aura Software">
   </a>
-  <a href="mailto:filipe.souza1000@gmail.com">
+  <a href="mailto:filipe@aurasoftware.com.br">
     <img src="https://img.shields.io/badge/E--mail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=E4A24F" alt="E-mail">
   </a>
 </p>
