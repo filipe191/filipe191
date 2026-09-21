@@ -71,15 +71,18 @@ Também trabalho com **Qlik** para BI e **Progress 4GL** em sistemas ERP legados
 ### GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=filipe191&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E4A24F&icon_color=E4A24F&text_color=C9D1D9" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe191&layout=compact&hide_border=true&bg_color=0D1117&title_color=E4A24F&text_color=C9D1D9" alt="Linguagens mais usadas">
+  <img height="180" src="https://streak-stats.demolab.com/?user=filipe191&hide_border=true&background=0D1117&stroke=E4A24F&ring=E4A24F&fire=E4A24F&currStreakLabel=E4A24F&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="Sequência de contribuições">
+</p>
+
+<p align="center">
+  <img width="800" src="https://ghchart.rshah.org/E4A24F/filipe191" alt="Contribuições no último ano">
 </p>
 
 ---
 
 ### Formação
 
-**Bacharelado em Sistemas de Informação** — FAI Centro de Ensino Superior em Gestão, Tecnologia e Educação
+**Bacharelado em Sistemas de Informação** — FAI Centro de Ensino Superior em Gestão, Tecnologia e Educação<br>
 **Técnico em Eletrônica com ênfase em Automação Industrial** — ETE FMC
 
 ---
