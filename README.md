@@ -23,7 +23,7 @@
 
 Gosto de fazer sistemas que não conversavam passarem a conversar — de ERP legado a SaaS em produção.
 
-- 💼 **Hoje:** desenvolvedor full stack na **Think Technology** (Python · Django · PostgreSQL)
+- 💼 **Hoje:** desenvolvedor full stack na **Think Technology** desde agosto de 2026 (Python · Django · PostgreSQL)
 - 🚀 **Em paralelo:** fundador da **[Aura Software](https://aurasoftware.com.br)**, onde crio e opero produtos SaaS do back-end ao deploy
 - 🏭 **Antes:** quase 3 anos na **TE Connectivity**, sustentando um ERP em Progress 4GL usado por **154 usuários**, automatizando rotinas em Python e entregando dashboards em Qlik do financeiro ao chão de fábrica
 - 🔌 **Base:** técnico em eletrônica e automação industrial — por isso o gosto por integração e processos
