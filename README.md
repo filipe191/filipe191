@@ -76,6 +76,10 @@ Gosto de fazer sistemas que não conversavam passarem a conversar — de ERP leg
 ### Atividade no GitHub
 
 <p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/filipe191/filipe191/output/activity-graph.svg" alt="Gráfico de atividade">
+</p>
+
+<p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/filipe191/filipe191/output/github-snake-dark.svg" alt="Contribuições no último ano">
 </p>
 
