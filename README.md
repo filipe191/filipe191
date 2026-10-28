@@ -1,7 +1,7 @@
 <h1 align="center">Filipe de Souza Daniel</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Full Stack</strong> &middot; foco em back-end, integração de sistemas e automação<br>
+  <strong>Desenvolvedor Full Stack na Think Technology</strong> &middot; foco em back-end, integração de sistemas e automação<br>
   Santa Rita do Sapucaí &middot; MG &middot; Brasil
 </p>
 
