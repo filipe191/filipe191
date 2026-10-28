@@ -1,8 +1,8 @@
 <h1 align="center">Filipe de Souza Daniel</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Full Stack</strong> &middot; foco em back-end<br>
-  Santa Rita do Sapucaí &middot; Minas Gerais &middot; Brasil
+  <strong>Desenvolvedor Full Stack</strong> &middot; foco em back-end, integração de sistemas e automação<br>
+  Santa Rita do Sapucaí &middot; MG &middot; Brasil
 </p>
 
 <p align="center">
@@ -19,13 +19,26 @@
 
 ---
 
-### Sobre
+### Sobre mim
 
-Construo APIs, automações e sistemas que integram o que não conversava antes — de ERP legado a dashboards de produção.
+Gosto de fazer sistemas que não conversavam passarem a conversar — de ERP legado a SaaS em produção.
 
-Hoje atuo como desenvolvedor full stack na **Think Technology**, com Python e Django. Em paralelo mantenho a **Aura Software**, onde desenvolvo produtos SaaS próprios.
+- 💼 **Hoje:** desenvolvedor full stack na **Think Technology** (Python · Django · PostgreSQL)
+- 🚀 **Em paralelo:** fundador da **[Aura Software](https://aurasoftware.com.br)**, onde crio e opero produtos SaaS do back-end ao deploy
+- 🏭 **Antes:** quase 3 anos na **TE Connectivity**, sustentando um ERP em Progress 4GL usado por **154 usuários**, automatizando rotinas em Python e entregando dashboards em Qlik do financeiro ao chão de fábrica
+- 🔌 **Base:** técnico em eletrônica e automação industrial — por isso o gosto por integração e processos
 
-Antes disso, passei quase três anos na **TE Connectivity** sustentando e evoluindo ERP legado em Progress 4GL para 154 usuários, automatizando rotinas em Python e entregando relatórios em Qlik para áreas que iam do financeiro à linha de produção.
+---
+
+### Projetos em destaque
+
+| Projeto | O que resolve | Destaques técnicos | Stack |
+| --- | --- | --- | --- |
+| **[DentalClean](https://dentalclean.aurasoftware.com.br)** | Gestão completa para clínicas odontológicas | Multi-tenant, odontograma com histórico append-only (padrão FDI), agenda, integração WhatsApp | Spring Boot · React/TS · PostgreSQL · Docker |
+| **Graminas** | Orçamentos para empresa de paisagismo | Cálculo automático de frete e composição de orçamento | Spring Boot · React |
+| **HidroOrça** | Orçamentos de hidrossemeadura | Cálculo de insumos e custos por área | Java · Web |
+
+> Todos em produção, com deploy próprio em Docker + Nginx + Cloudflare Tunnel.
 
 ---
 
@@ -38,6 +51,7 @@ Antes disso, passei quase três anos na **TE Connectivity** sustentando e evolui
 ![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=flat-square&logo=fastapi&logoColor=E4A24F)
 ![Java](https://img.shields.io/badge/Java-1a1a1a?style=flat-square&logo=openjdk&logoColor=E4A24F)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-1a1a1a?style=flat-square&logo=springboot&logoColor=E4A24F)
+![Progress 4GL](https://img.shields.io/badge/Progress_4GL-1a1a1a?style=flat-square&logoColor=E4A24F)
 
 **Front-end**
 
@@ -46,32 +60,23 @@ Antes disso, passei quase três anos na **TE Connectivity** sustentando e evolui
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=E4A24F)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-1a1a1a?style=flat-square&logo=bootstrap&logoColor=E4A24F)
 
-**Dados e infra**
+**Dados, BI e infra**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=E4A24F)
 ![MySQL](https://img.shields.io/badge/MySQL-1a1a1a?style=flat-square&logo=mysql&logoColor=E4A24F)
+![Qlik](https://img.shields.io/badge/Qlik-1a1a1a?style=flat-square&logo=qlik&logoColor=E4A24F)
 ![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=E4A24F)
+![Nginx](https://img.shields.io/badge/Nginx-1a1a1a?style=flat-square&logo=nginx&logoColor=E4A24F)
 ![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux&logoColor=E4A24F)
 ![Proxmox](https://img.shields.io/badge/Proxmox-1a1a1a?style=flat-square&logo=proxmox&logoColor=E4A24F)
-
-Também trabalho com **Qlik** para BI e **Progress 4GL** em sistemas ERP legados.
-
----
-
-### Projetos
-
-| Projeto | O que é | Stack |
-| --- | --- | --- |
-| **DentalClean** | SaaS multi-tenant de gestão para clínicas odontológicas, com integração WhatsApp | Spring Boot · React · PostgreSQL |
-| **Graminas** | Sistema de orçamento e cálculo de frete para empresa de paisagismo | Spring Boot · React |
-| **HidroOrça** | Aplicação de orçamento para serviços de hidrossemeadura | Java · Web |
+![Cloudflare](https://img.shields.io/badge/Cloudflare-1a1a1a?style=flat-square&logo=cloudflare&logoColor=E4A24F)
 
 ---
 
-### GitHub
+### Atividade no GitHub
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=filipe191&hide_border=true&background=0D1117&stroke=E4A24F&ring=E4A24F&fire=E4A24F&currStreakLabel=E4A24F&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="Sequência de contribuições">
+  <img height="170" src="https://streak-stats.demolab.com/?user=filipe191&hide_border=true&background=0D1117&stroke=E4A24F&ring=E4A24F&fire=E4A24F&currStreakLabel=E4A24F&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&locale=pt_br" alt="Sequência de contribuições">
 </p>
 
 <p align="center">
@@ -82,11 +87,11 @@ Também trabalho com **Qlik** para BI e **Progress 4GL** em sistemas ERP legados
 
 ### Formação
 
-**Bacharelado em Sistemas de Informação** — FAI Centro de Ensino Superior em Gestão, Tecnologia e Educação<br>
-**Técnico em Eletrônica com ênfase em Automação Industrial** — ETE FMC
+🎓 **Bacharelado em Sistemas de Informação** — FAI<br>
+🔧 **Técnico em Eletrônica com ênfase em Automação Industrial** — ETE FMC
 
 ---
 
 <p align="center">
-  <sub>Aberto a conversas sobre back-end, integração de sistemas e automação de processos.</sub>
+  <sub>Aberto a conversas sobre back-end, integração de sistemas, automação de processos e projetos freelance.</sub>
 </p>
