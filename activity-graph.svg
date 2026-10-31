@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif">
+<defs>
+<linearGradient id="area" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#E4A24F" stop-opacity="0.45"/>
+<stop offset="1" stop-color="#E4A24F" stop-opacity="0.02"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="420" rx="8" fill="#0D1117"/>
+<text x="600.0" y="45" text-anchor="middle" font-size="24" font-weight="600" fill="#E4A24F">Contribuições nos últimos 31 dias</text>
+<line x1="70" y1="360.0" x2="1160" y2="360.0" stroke="#21262D" stroke-width="1"/>
+<text x="56" y="365.0" text-anchor="end" font-size="14" fill="#C9D1D9">0</text>
+<line x1="70" y1="290.0" x2="1160" y2="290.0" stroke="#21262D" stroke-width="1"/>
+<text x="56" y="295.0" text-anchor="end" font-size="14" fill="#C9D1D9">2</text>
+<line x1="70" y1="220.0" x2="1160" y2="220.0" stroke="#21262D" stroke-width="1"/>
+<text x="56" y="225.0" text-anchor="end" font-size="14" fill="#C9D1D9">4</text>
+<line x1="70" y1="150.0" x2="1160" y2="150.0" stroke="#21262D" stroke-width="1"/>
+<text x="56" y="155.0" text-anchor="end" font-size="14" fill="#C9D1D9">6</text>
+<line x1="70" y1="80.0" x2="1160" y2="80.0" stroke="#21262D" stroke-width="1"/>
+<text x="56" y="85.0" text-anchor="end" font-size="14" fill="#C9D1D9">8</text>
+<text x="70.0" y="388" text-anchor="middle" font-size="13" fill="#C9D1D9">1</text>
+<text x="142.7" y="388" text-anchor="middle" font-size="13" fill="#C9D1D9">3</text>
+<text x="215.3" y="388" text-anchor="middle" font-size="13" fill="#C9D1D9">5</text>
+<text x="288.0" y="388" text-anchor="middle" font-size="13" fill="#C9D1D9">7</text>
+<text x="360.7" y="388" text-anchor="middle" font-size="13" fill="#C9D1D9">9</text>
+<text x="433.3" y="388" text-anchor="middle" font-size="13" fill="#C9D1D9">11</text>
+<text x="506.0" y="388" text-anchor="middle" font-size="13" fill="#C9D1D9">13</text>
+<text x="578.7" y="388" text-anchor="middle" font-size="13" fill="#C9D1D9">15</text>
+<text x="651.3" y="388" text-anchor="middle" font-size="13" fill="#C9D1D9">17</text>
+<text x="724.0" y="388" text-anchor="middle" font-size="13" fill="#C9D1D9">19</text>
+<text x="796.7" y="388" text-anchor="middle" font-size="13" fill="#C9D1D9">21</text>
+<text x="869.3" y="388" text-anchor="middle" font-size="13" fill="#C9D1D9">23</text>
+<text x="942.0" y="388" text-anchor="middle" font-size="13" fill="#C9D1D9">25</text>
+<text x="1014.7" y="388" text-anchor="middle" font-size="13" fill="#C9D1D9">27</text>
+<text x="1087.3" y="388" text-anchor="middle" font-size="13" fill="#C9D1D9">29</text>
+<text x="1160.0" y="388" text-anchor="middle" font-size="13" fill="#C9D1D9">31</text>
+<polygon points="70.0,360 70.0,360.0 106.3,360.0 142.7,360.0 179.0,360.0 215.3,360.0 251.7,360.0 288.0,360.0 324.3,360.0 360.7,360.0 397.0,360.0 433.3,360.0 469.7,360.0 506.0,360.0 542.3,360.0 578.7,360.0 615.0,360.0 651.3,360.0 687.7,360.0 724.0,360.0 760.3,360.0 796.7,360.0 833.0,360.0 869.3,360.0 905.7,360.0 942.0,360.0 978.3,360.0 1014.7,360.0 1051.0,115.0 1087.3,360.0 1123.7,360.0 1160.0,360.0 1160.0,360" fill="url(#area)"/>
+<polyline points="70.0,360.0 106.3,360.0 142.7,360.0 179.0,360.0 215.3,360.0 251.7,360.0 288.0,360.0 324.3,360.0 360.7,360.0 397.0,360.0 433.3,360.0 469.7,360.0 506.0,360.0 542.3,360.0 578.7,360.0 615.0,360.0 651.3,360.0 687.7,360.0 724.0,360.0 760.3,360.0 796.7,360.0 833.0,360.0 869.3,360.0 905.7,360.0 942.0,360.0 978.3,360.0 1014.7,360.0 1051.0,115.0 1087.3,360.0 1123.7,360.0 1160.0,360.0" fill="none" stroke="#E4A24F" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="70.0" cy="360.0" r="4.5" fill="#F5C27A" stroke="#0D1117" stroke-width="2"><title>01/10: 0</title></circle>
+<circle cx="106.3" cy="360.0" r="4.5" fill="#F5C27A" stroke="#0D1117" stroke-width="2"><title>02/10: 0</title></circle>
+<circle cx="142.7" cy="360.0" r="4.5" fill="#F5C27A" stroke="#0D1117" stroke-width="2"><title>03/10: 0</title></circle>
+<circle cx="179.0" cy="360.0" r="4.5" fill="#F5C27A" stroke="#0D1117" stroke-width="2"><title>04/10: 0</title></circle>
+<circle cx="215.3" cy="360.0" r="4.5" fill="#F5C27A" stroke="#0D1117" stroke-width="2"><title>05/10: 0</title></circle>
+<circle cx="251.7" cy="360.0" r="4.5" fill="#F5C27A" stroke="#0D1117" stroke-width="2"><title>06/10: 0</title></circle>
+<circle cx="288.0" cy="360.0" r="4.5" fill="#F5C27A" stroke="#0D1117" stroke-width="2"><title>07/10: 0</title></circle>
+<circle cx="324.3" cy="360.0" r="4.5" fill="#F5C27A" stroke="#0D1117" stroke-width="2"><title>08/10: 0</title></circle>
+<circle cx="360.7" cy="360.0" r="4.5" fill="#F5C27A" stroke="#0D1117" stroke-width="2"><title>09/10: 0</title></circle>
+<circle cx="397.0" cy="360.0" r="4.5" fill="#F5C27A" stroke="#0D1117" stroke-width="2"><title>10/10: 0</title></circle>
+<circle cx="433.3" cy="360.0" r="4.5" fill="#F5C27A" stroke="#0D1117" stroke-width="2"><title>11/10: 0</title></circle>
+<circle cx="469.7" cy="360.0" r="4.5" fill="#F5C27A" stroke="#0D1117" stroke-width="2"><title>12/10: 0</title></circle>
+<circle cx="506.0" cy="360.0" r="4.5" fill="#F5C27A" stroke="#0D1117" stroke-width="2"><title>13/10: 0</title></circle>
+<circle cx="542.3" cy="360.0" r="4.5" fill="#F5C27A" stroke="#0D1117" stroke-width="2"><title>14/10: 0</title></circle>
+<circle cx="578.7" cy="360.0" r="4.5" fill="#F5C27A" stroke="#0D1117" stroke-width="2"><title>15/10: 0</title></circle>
+<circle cx="615.0" cy="360.0" r="4.5" fill="#F5C27A" stroke="#0D1117" stroke-width="2"><title>16/10: 0</title></circle>
+<circle cx="651.3" cy="360.0" r="4.5" fill="#F5C27A" stroke="#0D1117" stroke-width="2"><title>17/10: 0</title></circle>
+<circle cx="687.7" cy="360.0" r="4.5" fill="#F5C27A" stroke="#0D1117" stroke-width="2"><title>18/10: 0</title></circle>
+<circle cx="724.0" cy="360.0" r="4.5" fill="#F5C27A" stroke="#0D1117" stroke-width="2"><title>19/10: 0</title></circle>
+<circle cx="760.3" cy="360.0" r="4.5" fill="#F5C27A" stroke="#0D1117" stroke-width="2"><title>20/10: 0</title></circle>
+<circle cx="796.7" cy="360.0" r="4.5" fill="#F5C27A" stroke="#0D1117" stroke-width="2"><title>21/10: 0</title></circle>
+<circle cx="833.0" cy="360.0" r="4.5" fill="#F5C27A" stroke="#0D1117" stroke-width="2"><title>22/10: 0</title></circle>
+<circle cx="869.3" cy="360.0" r="4.5" fill="#F5C27A" stroke="#0D1117" stroke-width="2"><title>23/10: 0</title></circle>
+<circle cx="905.7" cy="360.0" r="4.5" fill="#F5C27A" stroke="#0D1117" stroke-width="2"><title>24/10: 0</title></circle>
+<circle cx="942.0" cy="360.0" r="4.5" fill="#F5C27A" stroke="#0D1117" stroke-width="2"><title>25/10: 0</title></circle>
+<circle cx="978.3" cy="360.0" r="4.5" fill="#F5C27A" stroke="#0D1117" stroke-width="2"><title>26/10: 0</title></circle>
+<circle cx="1014.7" cy="360.0" r="4.5" fill="#F5C27A" stroke="#0D1117" stroke-width="2"><title>27/10: 0</title></circle>
+<circle cx="1051.0" cy="115.0" r="4.5" fill="#F5C27A" stroke="#0D1117" stroke-width="2"><title>28/10: 7</title></circle>
+<circle cx="1087.3" cy="360.0" r="4.5" fill="#F5C27A" stroke="#0D1117" stroke-width="2"><title>29/10: 0</title></circle>
+<circle cx="1123.7" cy="360.0" r="4.5" fill="#F5C27A" stroke="#0D1117" stroke-width="2"><title>30/10: 0</title></circle>
+<circle cx="1160.0" cy="360.0" r="4.5" fill="#F5C27A" stroke="#0D1117" stroke-width="2"><title>31/10: 0</title></circle>
+<text x="1160" y="408" text-anchor="end" font-size="12" fill="#C9D1D9" opacity="0.6">Atualizado em 31/10/2026</text>
+</svg>
